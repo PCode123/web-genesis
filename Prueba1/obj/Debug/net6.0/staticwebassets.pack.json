@@ -1,0 +1,577 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Prueba1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Prueba1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\1.png",
+      "PackagePath": "staticwebassets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\2.png",
+      "PackagePath": "staticwebassets\\img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\3.png",
+      "PackagePath": "staticwebassets\\img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\4.png",
+      "PackagePath": "staticwebassets\\img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\BannerAgile.png",
+      "PackagePath": "staticwebassets\\img\\BannerAgile.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\BannerCiber.png",
+      "PackagePath": "staticwebassets\\img\\BannerCiber.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\BannerData.png",
+      "PackagePath": "staticwebassets\\img\\BannerData.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\Ciber-banner.png",
+      "PackagePath": "staticwebassets\\img\\Ciber-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\CiberSecurity.jpg",
+      "PackagePath": "staticwebassets\\img\\CiberSecurity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\Data Science con Python.jpg",
+      "PackagePath": "staticwebassets\\img\\Data Science con Python.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\Data-banner.png",
+      "PackagePath": "staticwebassets\\img\\Data-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\Inno-banner.png",
+      "PackagePath": "staticwebassets\\img\\Inno-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\Innovation-Banner.png",
+      "PackagePath": "staticwebassets\\img\\Innovation-Banner.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\OKR.gif",
+      "PackagePath": "staticwebassets\\img\\OKR.gif"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\PAleSantos.webp",
+      "PackagePath": "staticwebassets\\img\\PAleSantos.webp"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\PCarlosDiaz.png",
+      "PackagePath": "staticwebassets\\img\\PCarlosDiaz.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\PEfrain Melgarejo.png",
+      "PackagePath": "staticwebassets\\img\\PEfrain Melgarejo.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\PManuelCaldas.png",
+      "PackagePath": "staticwebassets\\img\\PManuelCaldas.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\PManuelChiri.png",
+      "PackagePath": "staticwebassets\\img\\PManuelChiri.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\PMiguelCotrina.png",
+      "PackagePath": "staticwebassets\\img\\PMiguelCotrina.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\PMiguelHuaman.png",
+      "PackagePath": "staticwebassets\\img\\PMiguelHuaman.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\PeterMontalvo.png",
+      "PackagePath": "staticwebassets\\img\\PeterMontalvo.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\Power-BI.jpg",
+      "PackagePath": "staticwebassets\\img\\Power-BI.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\banner-1.png",
+      "PackagePath": "staticwebassets\\img\\banner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\bolticon.png",
+      "PackagePath": "staticwebassets\\img\\bolticon.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\bookicon.png",
+      "PackagePath": "staticwebassets\\img\\bookicon.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\carlos-01.png",
+      "PackagePath": "staticwebassets\\img\\carlos-01.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\carousel-4.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\cert-ciber.png",
+      "PackagePath": "staticwebassets\\img\\cert-ciber.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\course-1.jpg",
+      "PackagePath": "staticwebassets\\img\\course-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\course-2.jpg",
+      "PackagePath": "staticwebassets\\img\\course-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\course-3.jpg",
+      "PackagePath": "staticwebassets\\img\\course-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\logo-certiprof.jpeg",
+      "PackagePath": "staticwebassets\\img\\logo-certiprof.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\logo-genesis-final.png",
+      "PackagePath": "staticwebassets\\img\\logo-genesis-final.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\logo-genesis.png",
+      "PackagePath": "staticwebassets\\img\\logo-genesis.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\logo-genesis.svg",
+      "PackagePath": "staticwebassets\\img\\logo-genesis.svg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\okr.jpg",
+      "PackagePath": "staticwebassets\\img\\okr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\team-1.webp",
+      "PackagePath": "staticwebassets\\img\\team-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\team-2.webp",
+      "PackagePath": "staticwebassets\\img\\team-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\team-3.webp",
+      "PackagePath": "staticwebassets\\img\\team-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\team-4.webp",
+      "PackagePath": "staticwebassets\\img\\team-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\team-5.webp",
+      "PackagePath": "staticwebassets\\img\\team-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\team-6.webp",
+      "PackagePath": "staticwebassets\\img\\team-6.webp"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\team-7.webp",
+      "PackagePath": "staticwebassets\\img\\team-7.webp"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\piero\\source\\repos\\Prueba1\\Prueba1\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Prueba1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Prueba1.props",
+      "PackagePath": "build\\Prueba1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Prueba1.props",
+      "PackagePath": "buildMultiTargeting\\Prueba1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Prueba1.props",
+      "PackagePath": "buildTransitive\\Prueba1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

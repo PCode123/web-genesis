@@ -1,0 +1,75 @@
+/* _content/Prueba1/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-7z3ins28fq] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-7z3ins28fq] {
+  color: #0077cc;
+}
+
+.btn-primary[b-7z3ins28fq] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-7z3ins28fq], .nav-pills .show > .nav-link[b-7z3ins28fq] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-7z3ins28fq] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-7z3ins28fq] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-7z3ins28fq] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-7z3ins28fq] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-7z3ins28fq] {
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+ul[b-7z3ins28fq], ol[b-7z3ins28fq] {
+    list-style: none;
+}
+
+.navbar .nav-item > li[b-7z3ins28fq] {
+    float: left;
+}
+
+.navbar .nav-item li ul[b-7z3ins28fq] {
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+
+.navbar .nav-item li:hover > ul[b-7z3ins28fq] {
+    display: block;
+}
+
+.navbar .nav-item ul li ul[b-7z3ins28fq] {
+    position: relative;
+}
+
+.navbar .nav-item ul li ul li[b-7z3ins28fq] {
+        right: -140px;
+        top: 0px;
+}

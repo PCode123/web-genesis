@@ -1,0 +1,540 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<body>
+
+    <style>
+        /*INICIO BANNER*/
+        .banner {
+            position: relative;
+            max-width: 100%;
+            overflow: hidden;
+        }
+
+        .banner-image {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .banner-overlay2 {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #fff;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .banner-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 50%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            color: #fff;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .text-container {
+            flex: 2;
+            padding-right: 20px;
+        }
+
+        .title-box,
+        .subtitle-box {
+            background-color: #007bff;
+            padding: 10px 20px;
+            text-align: left;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+
+        .banner-title {
+            font-size: 36px;
+            margin: 0;
+        }
+
+        .banner-text {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        .banner-subtitle {
+            font-size: 24px;
+            color: #fff;
+            margin-bottom: 5px;
+        }
+
+        .subtitle-date {
+            font-size: 18px;
+            color: #fff;
+        }
+
+        /* TITULO CON LOGO*/
+
+        .title-with-logo {
+            display: flex;
+            align-items: center;
+            background-color: #007bff;
+            padding: 20px;
+            color: white;
+        }
+
+        .logo-circle {
+            background-color: #007bff;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-right: 20px;
+        }
+
+        .logo-image {
+            width: 40px;
+            height: 40px;
+        }
+
+        .title-rectangle {
+            background-color: #007bff;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+
+        .logo-title {
+            font-size: 30px;
+            margin: 0;
+        }
+
+        /*SESIÓN MODULOS Y PROFESOR*/
+
+        .content-section {
+            display: flex;
+            background-color: #fff;
+            padding: 20px;
+        }
+
+        .left-section {
+            flex: 1;
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        .dropdown {
+            position: relative;
+            display: list-item;
+        }
+
+        .dropbtn {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            text-align: left;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #007bff;
+            min-width: 200px;
+            z-index: 1;
+        }
+
+        .sub-content {
+            padding: 20px;
+            border-bottom: 1px solid #fff;
+        }
+
+            .sub-content:last-child {
+                border-bottom: none;
+            }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .right-section {
+            flex: 1;
+            background-color: #ccc;
+            padding: 20px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .profile {
+            text-align: left;
+        }
+
+        .profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+        }
+
+        .profile-name {
+            font-size: 24px;
+            margin: 10px 0;
+        }
+
+        .profile-subtitle {
+            font-size: 18px;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .profile-text {
+            font-size: 16px;
+            color: #555;
+        }
+
+        /*INFORMACIÓN DEL CURSO*/
+
+        .icon-section {
+            display: flex;
+            justify-content: space-between;
+            padding: 40px;
+        }
+
+        .icon-item {
+            flex: 1;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .icon-title {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+
+        .icon {
+            font-size: 40px;
+            color: #007bff;
+            margin-right: 10px;
+        }
+
+        .item-title {
+            font-size: 24px;
+            margin: 0;
+        }
+
+        .item-text {
+            font-size: 18px;
+            color: #555;
+            margin-top: 10px;
+        }
+
+
+        .bottom-text {
+            text-align: left;
+            padding: 20px;
+            background-color: #fff;
+        }
+
+
+        /*CERTIFICADO*/
+
+        .certificate-section {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px;
+            background-color: #fff;
+        }
+
+        .certificate-content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            max-width: 1000px;
+            width: 100%;
+        }
+
+        .certificate-image {
+            flex: 1;
+            max-width: 50%;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+            .certificate-image img {
+                max-width: 100%;
+                height: auto;
+                display: block;
+                margin: 0 auto;
+            }
+
+        .certificate-text {
+            flex: 1;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+            .certificate-text p {
+                font-size: 18px;
+                color: #555;
+            }
+
+        /*POR QUE ELEGIR*/
+
+
+        .icon-section-2 {
+            display: flex;
+            justify-content: space-between;
+            padding: 40px;
+        }
+
+        .icon-item-2 {
+            flex: 1;
+            text-align: center;
+            color: #387CFF;
+        }
+
+        .icon-2 {
+            font-size: 40px;
+            color: #fff; /* Cambiar el color del icono */
+            background-color: #387cff; /* Color de fondo gris */
+            border-radius: 50%; /* Hace que el fondo sea un círculo */
+            padding: 20px; /* Espacio alrededor del icono */
+            margin-bottom: 10px;
+        }
+
+        .item-title {
+            font-size: 24px;
+            margin: 10px 0;
+        }
+
+        .item-text {
+            font-size: 18px;
+            color: #000;
+        }
+
+    </style>
+
+    <div class="banner">
+        <img src="~/img/CiberSecurity.jpg" alt="" class="banner-image">
+        <div class ="banner-overlay2">
+            <div class="banner-overlay">
+                <div class="text-container">
+                    <div class="title-box">
+                        <h1 class="banner-title">Analítica de Datos con R</h1>
+                        </div>
+                    <p class="banner-text">Desarrolla capacidades y competencias para realizar análisis de datos usando el lenguaje de programación R, que permitan gestionar exitosamente iniciativas de ciencia de datos y de inteligencia de negocios, con habilidades para analizar y visualizar datos.</p>
+                            <div class="subtitle-box">
+                            <h2 class="banner-subtitle">Inicio de clases: 27 de Octubre</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="cuadro-azul">
+        <i class="fa fa-book icono" aria-hidden="true"></i>
+        <h1 class="subtitulo">MÓDULOS DEL CURSO Y DOCENTE</h1>
+    </div>
+
+
+    <div class="content-section">
+        <div class="left-section">
+            <div class="dropdown">
+                <button class="dropbtn">R Y RSTUDIO</button>
+                <div class="dropdown-content">
+                    <div class="sub-content">
+                        <ul>
+                            <li>¿Por qué R?</li>
+                            <li>La consola A.</li>
+                            <li>Rstudio.</li>
+                            <li>Lo básico de R.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">TIPOS DE DATOS EN R</button>
+                <div class="dropdown-content">
+                    <div class="sub-content">
+                        <ul>
+                            <li>Data Frames.</li>
+                            <li>Vectores.</li>
+                            <li>Factores.</li>
+                            <li>Listas</li>
+                            <li>Matrices</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">GRÁFICOS BÁSICOS EN R</button>
+                <div class="dropdown-content">
+                    <div class="sub-content">
+                        <ul>
+                            <li>Plot.</li>
+                            <li>Hist.</li>
+                            <li>Boxplot.</li>
+                            <li>Image.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">PROGRAMACIÓN R</button>
+                <div class="dropdown-content">
+                    <div class="sub-content">
+                        <ul>
+                            <li>Condicionales.</li>
+                            <li>Funciones.</li>
+                            <li>Bucles.</li>
+                            <li>Vectorización.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">ANÁLISIS DE DATOS CON R</button>
+                <div class="dropdown-content">
+                    <div class="sub-content">
+                        <ul>
+                            <li>Importación de datos.</li>
+                            <li>Paquetes de lectura de datos.</li>
+                            <li>Descargar de archivos.</li>
+                            <li>Organizar datos con hojas de cálculo</li>
+                            <li>Visualización de datos.</li>
+                            <li>Estadísctica básica con R.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="right-section">
+            <div class="profile">
+                <img src="~/img/PMiguelCotrina.png" alt="" class="profile-image">
+                <div class="profile-info">
+                    <h2 class="profile-name">Miguel Cotrina</h2>
+                    <p class="profile-subtitle">EXPERTO</p>
+                    <p class="profile-text">Maestro en Project Management por la University of Maryland, EEUU, con especialidad en Tecnologías de Información, Ingeniería de Software, y Cloud Computing. Estudios de especialización profesional en Ciencia de Datos en Harvard. Cuenta con un MBA por la Escuela de Negocios de Navarra, España. Ingeniero de Sistemas por la Universidad Nacional de Cajamarca, Perú. Actualmente se desempeña como Gerente General y Project Manager en Daccos Tecnología y Comunicación.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="cuadro-azul">
+        <i class="fa fa-bolt icono" aria-hidden="true"></i>
+        <h1 class="subtitulo">INFORMACIÓN DEL CURSO</h1>
+    </div>
+
+    <div class="icon-section">
+        <div class="icon-item">
+            <div class="icon-title">
+                <i class="fa fa-hourglass-end icon"></i>
+                <h3 class="item-title">DURACIÓN</h3>
+            </div>
+            <p class="item-text">8 Sesiones</p>
+            <p class="item-text">24 Horas</p>
+        </div>
+        <div class="icon-item">
+            <div class="icon-title">
+                <i class="fa fa-calendar icon"></i>
+                <h3 class="item-title">HORARIO</h3>
+            </div>
+            <p class="item-text">Lunes</p>
+            <p class="item-text">7 p.m. a 10 p.m.</p>
+        </div>
+        <div class="icon-item">
+            <div class="icon-title">
+                <i class="fa fa-laptop icon"></i>
+                <h3 class="item-title">MODALIDAD</h3>
+            </div>
+            <p class="item-text">Síncrono en vivo*</p>
+        </div>
+        <div class="icon-item">
+            <div class="icon-title">
+                <i class="fa fa-money icon"></i>
+                <h3 class="item-title">INVERSIÓN</h3>
+            </div>
+            <p class="item-text">S/. 600.00</p>
+        </div>
+    </div>
+
+    <div class="bottom-text">
+        <p>*El 100% de las clases se desarrollan en vivo, a fin de que el alumno reciba asesoría académica.</p>
+        <p>*Consulta por descuentos y otras formas de pago.</p>
+    </div>
+
+    <div class="cuadro-azul">
+        <i class="fa fa-certificate icono" aria-hidden="true"></i>
+        <h1 class="subtitulo">CERTIFICADO</h1>
+    </div>
+
+    <div class="certificate-section">
+        <div class="certificate-image">
+            <img src="~/img/cert-ciber.png" alt="Certificado">
+        </div>
+        <div class="certificate-text">
+            <p>Al culminar con éxito el curso Dashboard Expert con Power BI, recibirás un certificado a nombre de Génesis Learning Center & Business Solutions.</p>
+        </div>
+    </div>
+
+    <div class="cuadro-azul">
+        <i class="fa fa-star icono" aria-hidden="true"></i>
+        <h1 class="subtitulo">¿POR QUÉ ELEGIR GENESIS?</h1>
+    </div>
+
+    <div class="icon-section-2">
+        <div class="icon-item-2">
+            <i class="fas fa-lightbulb icon-2"></i>
+            <div class="item-info-2">
+                <h3 class="item-title">LEARNING BY DOING</h3>
+                <p class="item-text">Desarrolla casos con datos reales, incluso puedes proponer casos de tu propio sector o empresa</p>
+            </div>
+        </div>
+        <div class="icon-item-2">
+            <i class="fas fa-home icon-2"></i>
+            <div class="item-info-2">
+                <h3 class="item-title">PLATAFORMA E-LEARING</h3>
+                <p class="item-text">Accede en cualquier momento a todos nuestros materiales complentarios del curso: lecturas, videos, tutoriales, clases grabadas y más</p>
+            </div>
+        </div>
+        <div class="icon-item-2">
+            <i class="fas fa-users icon-2"></i>
+            <div class="item-info-2">
+                <h3 class="item-title">DOCENTE ESPECIALISTA</h3>
+                <p class="item-text">Facilitadores expertos con amplia experiencia laboral y certificación internacional</p>
+            </div>
+        </div>
+        <div class="icon-item-2">
+            <i class="fas fa-desktop icon-2"></i>
+            <div class="item-info-2">
+                <h3 class="item-title">ASESORÍA ACADÉMICA</h3>
+                <p class="item-text">Resuelce tus dudas con tu docente en nuestras clases  100% síncronas</p>
+            </div>
+        </div>
+    </div>
+
+
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+</body>
+
+</html>

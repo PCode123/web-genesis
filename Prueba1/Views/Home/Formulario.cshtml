@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<body>
+
+
+   <style>
+        .formulario {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .container-lg {
+            background-color: #ffffff;
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            width: 50%;
+            max-width: 100%;
+            margin: 50px auto;
+        }
+
+        .titulo {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .formulario-1 {
+            display: grid;
+            gap: 10px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        input[type="submit"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+                background-color: #0056b3;
+        }
+
+   </style>
+
+<div class="container-lg">
+   <div class="formulario">
+        <h1 class="titulo">Solicita más Información</h1>
+        <form class="formulario-1" action="EnviarCorreo" method="post">
+            <label for="apellidoPaterno">Apellido Paterno:</label>
+            <input type="text" id="apellidoPaterno" name="apellidoPaterno" required><br><br>
+
+            <label for="apellidoMaterno">Apellido Materno:</label>
+            <input type="text" id="apellidoMaterno" name="apellidoMaterno" required><br><br>
+
+            <label for="nombres">Nombres:</label>
+            <input type="text" id="nombres" name="nombres" required><br><br>
+
+            <label for="tipoDocumento">Tipo de Documento:</label>
+            <select id="tipoDocumento" name="tipoDocumento" required>
+                    <option value="dni">DNI</option>
+                    <option value="pasaporte">Pasaporte</option>
+                    <option value="carnetExtranjeria">Carnet de Extranjería</option>
+                </select><br><br>
+
+            <label for="numeroDocumento">Número de Documento:</label>
+            <input type="text" id="numeroDocumento" name="numeroDocumento" required><br><br>
+
+            <label for="celular">Celular:</label>
+            <input type="tel" id="celular" name="celular" required><br><br>
+
+            <label for="correoElectronico">Correo Electrónico:</label>
+            <input type="email" id="correoElectronico" name="correoElectronico" required><br><br>
+
+            <label for="tipodeCurso">Elije tu curso</label>
+            <select id="tipodeCurso" name="tipodeCurso" required>
+                    <option value="Ciber Seguridad Foundation">Ciber Seguridad Foundation</option>
+                <option value="Power_bi">Darsboard Expert con Power BI</option>
+                <option value="SQL_Server">Business Intelligence con SQL Server</option>
+                <option value="Python">Data Scince con Python</option>
+                <option value="DataconR">Analítica de Datos con R</option>
+                <option value="OKR">OKR Certified Professional (OKRCP)</option>
+                <option value="ISO">ISO 56002 Sistema de Gestión de la Innovación</option>
+                <option value="StartUp">Start Up Venture</option>
+                <option value="Scrum">Scrum Professional Certificate (SMPC-SPOCP-SDPC)</option>
+                <option value="StartUp">Start Up Venture</option>
+                <option value="BPM">Business Process Managment (BPM) Certified</option>
+
+            </select>
+
+            <div class="consentimiento">
+                <input type="checkbox" id="consentimiento" style="right" name="consentimiento" required>
+                <label for="consentimiento">
+                    Con el fin de brindarte información acerca de nuestros cursos, te solicitamos que nos des tu consentimiento para registrar tus datos y establecer contacto contigo. Sin tu autorización, no podremos establecer comunicación contigo.
+                </label>
+            </div>
+
+            <input type="submit" value="Enviar">
+        </form>
+
+   </div>
+
+</div>
+</body>
+</html>
